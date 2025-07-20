@@ -8,7 +8,7 @@ I'm a **full stack developer** from 🇬🇧 **United Kingdom**.
 
 ## 🛠️ Skills
 
-![VSCode](https://img.shields.io/badge/slashdot-026664?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/vscode-026664?style=flat-square&logo=slashdot&logoColor=026664)
 ![Windows](https://img.shields.io/badge/windows-0078D4?style=flat-square&logo=windows&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
