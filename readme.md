@@ -2,7 +2,7 @@
 
 I'm a **full stack developer** from 🇬🇧 **United Kingdom**.
 
-[![Discord](https://img.shields.io/badge/@afugitive1k-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discord.com/users/yourID)
+[![Discord](https://img.shields.io/badge/@sparkzz-_--5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discord.com/users/1109354898409132032)
 
 ---
 
