@@ -21,4 +21,4 @@ I'm a **full stack developer** from 🇬🇧 **United Kingdom**.
 
 | Project | Description | Status | Version |
 |--------|-------------|--------|---------|
-| [**Central North 25 FiveM**](https://passwords.zarky.uk) | FiveM Server | 🟠 Prosessing | 🔒 Closed | v0.1.2 |
+| **Central North 25 FiveM** | FiveM Server | 🟠 Prosessing | 🔒 Closed | v0.1.2 |
